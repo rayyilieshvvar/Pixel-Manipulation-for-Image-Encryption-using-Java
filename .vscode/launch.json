@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ImageEncryptionTool",
+            "request": "launch",
+            "mainClass": "main.java.ImageEncryptionTool",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "ImageEncryptionTool",
+            "request": "launch",
+            "mainClass": "ImageEncryptionTool",
+            "args": []
+        }
+    ]
+}
